@@ -1,0 +1,17 @@
+.navbar {
+    margin-bottom: 20px;
+    background-color: #dadada !important;
+  }
+  
+  .navbar-brand {
+    margin-right: 20px;
+    margin-left: 100px;
+  }
+  
+  .nav-link {
+    margin-left: 15px;
+  }
+  
+  .navbar-nav:last-child {
+    margin-right: 100px;
+  }

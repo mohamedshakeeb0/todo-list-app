@@ -1,0 +1,8 @@
+.container {
+    max-width: 85%;
+}
+
+.btn-large {
+    padding: 8px 15px; /* Adjust padding as needed */
+    font-size: 1.25rem; /* Adjust font size as needed */
+}
